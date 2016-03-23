@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EROS images]]></title>
         <description><![CDATA[EROS images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eros-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 09:17:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 09:18:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eros-images/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dcf1f89-ae89-45b6-8f5b-8fb018f27b5a.jpg">]]></description>
+            <link>https://thegrid.ai/eros-images/5a0d7f5e-6295-4696-b81d-7532bfa69578/index.html</link>
+            <guid isPermaLink="false">5a0d7f5e-6295-4696-b81d-7532bfa69578</guid>
+            <pubDate>Wed, 23 Mar 2016 09:18:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61de7ca9-6523-4566-91b3-1e358275f963.jpg">]]></description>
-            <link>undefinedscarlet-carson-august-2015-urges-our-life-showing-houston/index.html</link>
+            <link>https://thegrid.ai/eros-images/scarlet-carson-august-2015-urges-our-life-showing-houston/index.html</link>
             <guid isPermaLink="false">6cd99ee1-429a-4b37-8648-f32f5888524e</guid>
             <pubDate>Wed, 23 Mar 2016 09:17:38 GMT</pubDate>
         </item>
